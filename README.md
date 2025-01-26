@@ -1,9 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# sta-demo-270125-bp
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--sta-demo-270125-bp--aemdemos.aem.page/
+- Live: https://main--sta-demo-270125-bp--aemdemos.aem.live/
 
 ## Documentation
 
